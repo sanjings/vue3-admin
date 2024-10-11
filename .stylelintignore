@@ -1,0 +1,12 @@
+node_modules
+dist
+public
+build
+test
+.husky
+.vscode
+.idea
+*.sh
+*.md
+
+src/assets/icons
